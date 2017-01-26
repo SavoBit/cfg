@@ -5,9 +5,10 @@
 package main
 
 import (
-	"github.com/jimlawless/cfg"
 	"fmt"
 	"log"
+
+	"github.com/mistsys/cfg"
 )
 
 func main() {
